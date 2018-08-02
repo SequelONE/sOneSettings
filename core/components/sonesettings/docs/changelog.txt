@@ -1,0 +1,45 @@
+Changelog for sOneSettings.
+
+1.0.0-pl
+==============
+- Add component Ace
+- Add component AjaxForm
+- Add component ClientConfig
+- Add component Console
+- Add component controlErrorLog
+- Add component EasyComm
+- Add component FormIt
+- Add component frontendManager
+- Add component HybridAuth
+- Add component Jevix
+- Add component looked
+- Add component MinifyX
+- Add component miniShop2
+- Add component mSearch2
+- Add component msFavorites
+- Add component msFieldsManager
+- Add component msImportExport
+- Add component msMiniCartDynamic
+- Add component msPNnotify
+- Add component Office
+- Add component pdoTools
+- Add component phpThumbOn
+- Add component QuickView
+- Add component RobotsBuilder
+- Add component Sendex
+- Add component Tickets
+- Add component TinyMCE
+- Add component UpgradeMODX
+- Add component yTranslit
+
+1.0.0-beta
+==============
+- Optimized for MODX 2.3
+- Improved processors
+- Disabled plugin and system settings
+- Improved UI
+- Added grid actions
+- Added icons in menu
+- Added search in grid
+- Grid sorting
+- Enable and disable actions
